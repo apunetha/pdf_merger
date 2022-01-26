@@ -1,0 +1,96 @@
+2022-01-26 20:33:49,871 INFO Application Started at 2022 -01 -26 20:33:49 
+2022-01-26 20:33:49,983 INFO Main screen created
+2022-01-26 20:33:50,109 INFO frame 1 for input path ,search and merge options
+2022-01-26 20:33:50,115 INFO  main screen looping for presentation
+2022-01-26 20:34:22,451 INFO extracting data from input field
+2022-01-26 20:34:22,451 INFO Trying to list all files and folder in present directory
+2022-01-26 20:34:22,452 INFO list of files in present directory
+2022-01-26 20:34:24,627 INFO Working inside merge functions
+2022-01-26 20:34:24,627 INFO Trying to list all files and folder in present directory
+2022-01-26 20:34:24,627 INFO Working on pdf_files merger function
+2022-01-26 20:34:24,627 INFO importing merge.py
+2022-01-26 20:34:32,307 INFO extracting data from input field
+2022-01-26 20:34:32,307 INFO Trying to list all files and folder in present directory
+2022-01-26 20:34:32,308 INFO list of files in present directory
+2022-01-26 20:43:12,882 INFO Application Started at 2022 -01 -26 20:43:12 
+2022-01-26 20:43:12,947 INFO Main screen created
+2022-01-26 20:43:13,058 INFO frame 1 for input path ,search and merge options
+2022-01-26 20:43:13,076 INFO  main screen looping for presentation
+2022-01-26 20:43:45,378 INFO extracting data from input field
+2022-01-26 20:43:45,379 INFO Trying to list all files and folder in present directory
+2022-01-26 20:43:45,379 INFO list of files in present directory
+2022-01-26 20:43:51,939 INFO Working inside merge functions
+2022-01-26 20:43:51,939 INFO Trying to list all files and folder in present directory
+2022-01-26 20:43:51,940 INFO Working on pdf_files merger function
+2022-01-26 20:43:51,940 INFO importing merge.py
+2022-01-26 20:56:08,119 INFO Application Started at 2022 -01 -26 20:56:08 
+2022-01-26 20:56:08,222 INFO Main screen created
+2022-01-26 20:56:08,314 INFO frame 1 for input path ,search and merge options
+2022-01-26 20:56:08,318 INFO  main screen looping for presentation
+2022-01-26 20:56:26,778 INFO Working inside merge functions
+2022-01-26 20:56:26,779 INFO Trying to list all files and folder in present directory
+2022-01-26 20:56:26,779 INFO Working on pdf_files merger function
+2022-01-26 20:56:26,780 INFO importing merge.py
+2022-01-26 20:56:29,734 INFO extracting data from input field
+2022-01-26 20:56:29,734 INFO Trying to list all files and folder in present directory
+2022-01-26 20:56:29,734 INFO list of files in present directory
+2022-01-26 21:20:04,321 INFO Application Started at 2022 -01 -26 21:20:04 
+2022-01-26 21:20:04,510 INFO Main screen created
+2022-01-26 21:20:04,660 INFO frame 1 for input path ,search and merge options
+2022-01-26 21:20:04,663 INFO  main screen looping for presentation
+2022-01-26 21:20:26,299 INFO Working inside merge functions
+2022-01-26 21:20:26,299 INFO Trying to list all files and folder in present directory
+2022-01-26 21:20:26,300 INFO Working on pdf_files merger function
+2022-01-26 21:20:26,300 INFO importing merge.py
+2022-01-26 21:27:34,938 INFO Application Started at 2022 -01 -26 21:27:34 
+2022-01-26 21:27:35,059 INFO Main screen created
+2022-01-26 21:27:35,187 INFO frame 1 for input path ,search and merge options
+2022-01-26 21:27:35,189 INFO  main screen looping for presentation
+2022-01-26 21:27:39,437 INFO extracting data from input field
+2022-01-26 21:27:39,437 INFO Trying to list all files and folder in present directory
+2022-01-26 21:27:39,437 INFO list of files in present directory
+2022-01-26 21:27:40,881 INFO Working inside merge functions
+2022-01-26 21:27:40,881 INFO Trying to list all files and folder in present directory
+2022-01-26 21:27:40,882 INFO Working on pdf_files merger function
+2022-01-26 21:27:40,882 INFO importing merge.py
+2022-01-26 21:27:54,066 INFO extracting data from input field
+2022-01-26 21:27:54,066 INFO Trying to list all files and folder in present directory
+2022-01-26 21:27:54,066 INFO list of files in present directory
+2022-01-26 21:29:28,219 INFO Application Started at 2022 -01 -26 21:29:28 
+2022-01-26 21:29:28,304 INFO Main screen created
+2022-01-26 21:29:28,405 INFO frame 1 for input path ,search and merge options
+2022-01-26 21:29:28,418 INFO  main screen looping for presentation
+2022-01-26 21:29:39,369 INFO Working inside merge functions
+2022-01-26 21:29:39,369 INFO Trying to list all files and folder in present directory
+2022-01-26 21:29:39,370 INFO Working on pdf_files merger function
+2022-01-26 21:29:39,370 INFO importing merge.py
+2022-01-26 21:36:48,922 INFO Application Started at 2022 -01 -26 21:36:48 
+2022-01-26 21:36:49,072 INFO Main screen created
+2022-01-26 21:36:49,299 INFO frame 1 for input path ,search and merge options
+2022-01-26 21:36:49,304 INFO  main screen looping for presentation
+2022-01-26 21:37:10,985 INFO Working inside merge functions
+2022-01-26 21:37:10,985 INFO Trying to list all files and folder in present directory
+2022-01-26 21:37:10,985 INFO Working on pdf_files merger function
+2022-01-26 21:37:10,985 INFO importing merge.py
+2022-01-26 21:37:44,216 INFO extracting data from input field
+2022-01-26 21:37:44,217 INFO Trying to list all files and folder in present directory
+2022-01-26 21:37:44,217 INFO list of files in present directory
+2022-01-26 21:38:28,835 INFO Application Started at 2022 -01 -26 21:38:28 
+2022-01-26 21:38:28,927 INFO Main screen created
+2022-01-26 21:38:29,028 INFO frame 1 for input path ,search and merge options
+2022-01-26 21:38:29,038 INFO  main screen looping for presentation
+2022-01-26 21:38:33,289 INFO Working inside merge functions
+2022-01-26 21:38:33,290 INFO Trying to list all files and folder in present directory
+2022-01-26 21:38:33,290 INFO Working on pdf_files merger function
+2022-01-26 21:38:33,290 INFO importing merge.py
+2022-01-26 21:39:02,224 INFO Application Started at 2022 -01 -26 21:39:02 
+2022-01-26 21:39:02,315 INFO Main screen created
+2022-01-26 21:39:02,422 INFO frame 1 for input path ,search and merge options
+2022-01-26 21:39:02,427 INFO  main screen looping for presentation
+2022-01-26 21:39:06,334 INFO Working inside merge functions
+2022-01-26 21:39:06,334 INFO Trying to list all files and folder in present directory
+2022-01-26 21:39:06,346 INFO Working on pdf_files merger function
+2022-01-26 21:39:06,346 INFO importing merge.py
+2022-01-26 21:39:10,888 INFO extracting data from input field
+2022-01-26 21:39:10,888 INFO Trying to list all files and folder in present directory
+2022-01-26 21:39:10,890 INFO list of files in present directory
